@@ -70,3 +70,5 @@ If you don't know who we are:
 [Miguel Lobo Leite](https://github.com/MLobo1997) - A cool guy, likes Distributed Systems.
 
 [Hugo Brandão](https://github.com/jhugobb) - Also a cool guy, but prefers CG and game making.
+
+If you need to see the steps on how we got to the final project, head [here](https://github.com/jhugobb/CG). It's our CG repo and we have all our assignements there.
