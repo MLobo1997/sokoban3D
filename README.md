@@ -51,14 +51,14 @@ If you need more image juice to convince you, head to the [screenshots folder](/
 
 We don't have any tutorials, but here is an instruction list on how to make the most out of the game:
 
--Move with 'w' (forward) and 's' (backwards).
--Rotate the character with 'a' and 'd'.
--Move the camera around, MMO style, by pressing the screen with the mouse and moving it.
--Zoom in and out with the scroll wheel.
--Reset the level with 'r'.
--Press 'm' to go to the next level or 'n' to go to the previous.
--Press 'p' to change between 1st and 3st person modes.
--Press 't' to change between themes. (might take a bit to load)
+- Move with 'w' (forward) and 's' (backwards).
+- Rotate the character with 'a' and 'd'.
+- Move the camera around, MMO style, by pressing the screen with the mouse and moving it.
+- Zoom in and out with the scroll wheel.
+- Reset the level with 'r'.
+- Press 'm' to go to the next level or 'n' to go to the previous.
+- Press 'p' to change between 1st and 3st person modes.
+- Press 't' to change between themes. (might take a bit to load)
 
 ## This is amazing. I need to play it and to help the authors!
 
