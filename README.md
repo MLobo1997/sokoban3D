@@ -43,7 +43,7 @@ This is the first of 9 maps. You won't get bored easily, they are ordered by dif
 Hardest map that we have. May the odds be ever in your favor.
 ![First person](/screenshots/1p.png)
 Here is a first person screenshot. On the house.
-![Star Wars Theme](/screenshots/overview.png)
+![Star Wars Theme](/screenshots/overviewstar.png)
 
 If you need more image juice to convince you, head to the [screenshots folder](/screenshots).
 
