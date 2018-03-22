@@ -44,6 +44,7 @@ Hardest map that we have. May the odds be ever in your favor.
 ![First person](/screenshots/1p.png)
 Here is a first person screenshot. On the house.
 ![Star Wars Theme](/screenshots/overviewstar.png)
+Remember we said you can change the theme? Oh yeah, you know it's true.
 
 If you need more image juice to convince you, head to the [screenshots folder](/screenshots).
 
