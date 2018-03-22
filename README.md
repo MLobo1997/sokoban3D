@@ -67,4 +67,5 @@ Well you can help us by voting in our project if you are part of the CG course o
 If you don't know who we are:
 
 [Miguel Lobo Leite](https://github.com/MLobo1997) - A cool guy, likes Distributed Systems.
+
 [Hugo Brandão](https://github.com/jhugobb) - Also a cool guy, but prefers CG and game making.
